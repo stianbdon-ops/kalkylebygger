@@ -1,0 +1,27 @@
+{
+  "omr\u00e5de": "Vegg",
+  "rom": "Stue",
+  "oppgavetype": "T\u00f8mrer",
+  "arbeidsposter": [
+    {
+      "navn": "Ny gipsplate 12mm",
+      "materiellvalg": {
+        "navn": "GIPSPLATE 12MM STANDARD",
+        "nobb": "12345678",
+        "enhetspris": 45.0,
+        "mengde": 10,
+        "totalpris": 450.0
+      }
+    },
+    {
+      "navn": "Monter gulvlist",
+      "materiellvalg": {
+        "navn": "FURU 12x058 FOT RUND HVIT",
+        "nobb": "87654321",
+        "enhetspris": 29.0,
+        "mengde": 12,
+        "totalpris": 348.0
+      }
+    }
+  ]
+}
