@@ -1,38 +1,29 @@
 # Kalkylebygger
 
-Dette er en interaktiv webapp for å bygge kalkyler til forsikringssaker, med støtte for arbeidsposter, materiellvalg og automatisk prisberegning.
+Interaktiv webapp for kalkyler til forsikringssaker med arbeidsposter, materiellvalg og prisberegning.
 
-## 🔧 Funksjoner
+## Funksjoner
 
-- Rullegardinvalg for arbeidsposter og materiell
+- Rullegardinvalg for arbeid og materiell
 - Automatisk kobling til Optimera-priser
-- Kalkylevisning per rom
-- Nedlasting som Excel
-- Integrasjon med Teams (kommende)
-- PDF-veiledning og videoopplæring tilgjengelig via Hjelp-knapp
+- Totalpris per rom
+- Hjelp-knapp med PDF-veiledning
+- Mobilvennlig visning
+- Mulighet for å legge til nye arbeidsposter (kommer)
 
-## 📦 Teknisk
+## Bruk
 
-- HTML, CSS og JavaScript
-- Hostet på Netlify
-- Repo på GitHub (offentlig)
+1. Åpne `index.html` i nettleser
+2. Se kalkyleoversikt per rom
+3. Klikk på Hjelp for PDF-veiledning
 
-## 📁 Filstruktur
+## Filstruktur
 
-- `index.html` – hovedvisning
-- `eksempelkalkyle.json` – eksempeldata
-- `README.md` – denne filen
-
-## 📚 Dokumentasjon
-
-- PDF-veiledning
-- Videoopplæring
-
-## 🚀 Bruk
-
-1. Åpne webappen via Netlify
-2. Velg arbeidsposter og materiell
-3. Lagre kalkylen eller send til Teams
+- `index.html`
+- `app.js`
+- `style.css`
+- `eksempelkalkyle.json`
+- `kalkyle_veiledning.pdf`
 
 ---
 
